@@ -37,9 +37,7 @@ public class Conditions {
 	    break; 
            default : System.out.println("Invalid Operator");
        }
-	   
-	   
-   
+	  
    }
 
 }
