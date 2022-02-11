@@ -17,6 +17,7 @@ class Solution {
            if(ch>='a' && ch<='z')
            {
                sb.append(""+ch);
+              
            }
        }
        return sb.toString();
