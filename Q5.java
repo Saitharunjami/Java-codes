@@ -18,8 +18,8 @@ class Solution {
            {
                sb.append(""+ch);
               
-           }
+          }
        }
        return sb.toString();
-   }
+ }
 }
