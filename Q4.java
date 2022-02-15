@@ -17,6 +17,7 @@ public class GenericClass<T> {
     
     GenericClass(T res)
     {
+        
         this.res = res;
     }
     
