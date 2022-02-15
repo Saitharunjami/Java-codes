@@ -26,5 +26,5 @@ public class GenericClass<T> {
         System.out.println(res.getClass().getSimpleName());
         System.out.println(res);
  
-    } 
+   } 
  }
