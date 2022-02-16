@@ -7,6 +7,7 @@ class Solve {
         int xy = 0;
         for(int a : arr){
             xy ^=a;
+        
         }
         
         for(int a = 1; a <= n ; a++){
