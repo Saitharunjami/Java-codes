@@ -25,6 +25,7 @@ class Solve {
                 y ^=a;
         }
         
+        
         for(int a = 1; a <=n; a++){
             if((a & rmsb) == 0)
                 x ^=a;
