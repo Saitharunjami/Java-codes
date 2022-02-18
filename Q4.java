@@ -9,6 +9,7 @@ Constraints:
 1 < = T < = 100
 1 < = c < = 2
 1<= Length of strings, integers<=103
+
 */
 
 
