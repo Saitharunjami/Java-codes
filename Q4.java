@@ -20,7 +20,7 @@ public class GenericClass<T> {
     GenericClass(T res)
     {
         
-        this.res = res;
+     this.res = res;
     }
     
     void showType()
