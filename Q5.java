@@ -6,6 +6,8 @@ class Solution {
        StringBuilder sb=new StringBuilder();
        char ch;
        int n;
+      
+      
        for(int i=0;i<S.length();i++)
        { 
            ch=S.charAt(i);
