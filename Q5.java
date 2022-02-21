@@ -11,6 +11,7 @@ class Solution {
            ch=S.charAt(i);
            if(ch>='A' && ch<='Z')
            {
+              
              n=ch+32;
             sb.append(""+(char)n);
            }
