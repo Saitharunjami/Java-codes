@@ -1,4 +1,5 @@
-//Given an unsorted array Arr of size N of positive integers. One number 'A' from set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.
+//Given an  unsorted array Arr of size N of positive integers. One number 'A' from set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers. 
+
 
 class Solve {
     int[] findTwoElement(int arr[], int n) {
@@ -8,7 +9,7 @@ class Solve {
         for(int a : arr){
             xy ^=a;
         
-        }
+       }
         
         for(int a = 1; a <= n ; a++){
             xy ^=a;
@@ -44,6 +45,9 @@ class Solve {
                 res[0] = y;
             }
         }
-        return res;
+       
+        
+
+            return res;
     }
 }
