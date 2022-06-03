@@ -4,7 +4,6 @@ The first line will contain an integer T (number of test cases). First line of e
 Output: 
 Print the type of the given data and the given value in new line.
 
-
 Constraints: 
 1 < = T < = 100
 1 < = c < = 2
