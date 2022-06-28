@@ -1,5 +1,4 @@
 // Given a string S. The task is to convert characters of string to lowercase.
-
 class Solution {
    static String toLower(String S) {
        // code here
